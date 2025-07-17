@@ -11,7 +11,6 @@ import org.slf4j.LoggerFactory;
 
 import java.util.List;
 
-@ApplicationScoped
 public class FinanceApi {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(FinanceApi.class);
